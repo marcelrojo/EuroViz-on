@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+  background-color: #010039;
+  color: white;
+  font-family: 'Cantarell', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cantarell', sans-serif;
+}
+
+.shiny-input-container {
+  background-color: #010039;
+  color: white;
+}
+
+.skin-blue .main-header .logo {
+  background-color: #5A00D4;
+  font-family: 'Cantarell', sans-serif;
+}
+
+.skin-blue .main-header .navbar {
+  background-color: #010039;
+}
+
+.skin-blue .main-sidebar {
+  background-color: #010039;
+}
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a {
+  background-color: #010039;
+  color: white;
+  font-family: 'Cantarell', sans-serif;
+}
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu a {
+  background-color: #010039;
+  color: white;
+  font-family: 'Cantarell', sans-serif;
+}
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu a:hover {
+  background-color: #FFF400;
+  color: #010039;
+}
+
+.content-wrapper, .right-side {
+  background-color: #010039;
+  color: white;
+  font-family: 'Cantarell', sans-serif;
+}
+
+.content-header h1, .content-header h2, .content-header h3 {
+  font-family: 'Cantarell', sans-serif;
+}
+
+.box {
+  background-color: #010039;
+  color: white;
+  border: 2px solid #FFF400;
+  font-family: 'Cantarell', sans-serif;
+}
+
+.box-header .box-title {
+  background-color: #010039;
+  color: #FF45DF;
+  font-family: 'Cantarell', sans-serif;
+}
+
+/* Footer */
+.main-footer {
+  background-color: #010039;
+  color: white;
+  font-family: 'Cantarell', sans-serif;
+}
+
