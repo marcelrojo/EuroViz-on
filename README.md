@@ -12,8 +12,8 @@ The name EuroViz'on is a play on the words Eurovision and Visualization (Viz) â€
 - **some of the data was added by us manually(2024 contest results)*
 
 ## Prepared by:
-- Julia 
-- Marcel 
+- [Julia](https://github.com/julkalorenz)
+- [Marcel](https://github.com/marcelrojo)
 
 ## Content of repository:
 - `eurovision_stats` directory contains all of our app's code,
